@@ -165,7 +165,7 @@ I would be happy to discuss the architecture, design decisions, or provide a pri
 
 **Opportunities for collaboration or professional roles are always welcome.**
 
- 📧 Email: [virajtharindu1997@gmail.com](mailto:virajtharindu1997@gmail.com)  
+📧 Email: [virajtharindu1997@gmail.com](mailto:virajtharindu1997@gmail.com)  
 💼 LinkedIn: [viraj-tharindu](https://www.linkedin.com/in/viraj-tharindu/)  
 🐙 GitHub: [VirajTharindu](https://github.com/VirajTharindu)  
 
